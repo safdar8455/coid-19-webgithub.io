@@ -75,7 +75,7 @@
     <div class="udates-data d-flex justify-content-around align-items-center">
       <div>
         <h1 class="count" id="totalConform"></h1>
-        <p>Passengers screened at airport</p>
+        <p>Passengers screened at airport in Karachi</p>
       </div>
       <div>
         <h1 class="count" id="totalActive"></h1>
